@@ -1,8 +1,6 @@
 # Shopping List
 
-A simple shopping list Android app built with **Kotlin** and **Jetpack Compose**.
-
-This is a small learning project created while practicing Kotlin, Android Studio, and Jetpack Compose.
+A simple shopping list Android app built with **Kotlin** and **Jetpack Compose**. This is a small learning project created while practicing Kotlin, Android Studio, and Jetpack Compose.
 
 ## About the App
 
